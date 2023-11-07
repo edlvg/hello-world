@@ -1,4 +1,4 @@
 # hello-world
-Repository for testing, creating and sharing
+Repository for testing, creating and sharing //
 Just learning how this shit works 
 
