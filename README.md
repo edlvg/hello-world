@@ -1,5 +1,4 @@
 # hello-world
-Repository for testing, creating and sharing.
+This is just the testing branch for me to share anything
 
-Just learning how this shit works 
 
